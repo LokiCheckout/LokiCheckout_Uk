@@ -42,6 +42,6 @@
         "LokiCheckout_Core",
         "Magento_Store"
     ],
-    "phpcs_severity": 10,
-    "phpstan_level": 1
+    "phpcs_severity": "1",
+    "phpstan_level": "9"
 }
