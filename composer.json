@@ -5,8 +5,7 @@
     "keywords": [
         "dev",
         "loki-checkout",
-        "loki-dev",
-        "loki-checkout-category-payment"
+        "loki-dev"
     ],
     "type": "magento2-module",
     "require": {

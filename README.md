@@ -1,6 +1,6 @@
 # LokiCheckout_Uk
 
-**This Magento 2 module is an add-on package to the LokiCheckout.**
+**This Magento 2 module is an add-on package to the LokiCheckout, containing UK-specific settings.**
 
 ## Installation
 Install this package via composer:
