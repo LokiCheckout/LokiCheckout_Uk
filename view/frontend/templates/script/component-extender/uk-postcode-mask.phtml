@@ -1,0 +1,11 @@
+<script>
+    LokiComponentExtender.add('UkPostcodeMaskMixin', () => {
+        return {
+            ukPostcodeMask(input) {
+                return /^[A-Z]{2}/i.test(input)
+                    ? 'aa** 9aa'
+                    : 'a** 9aa';
+            }
+        }
+    });
+</script>

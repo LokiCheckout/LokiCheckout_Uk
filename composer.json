@@ -3,9 +3,7 @@
     "version": "0.0.1",
     "description": "N/A",
     "keywords": [
-        "dev",
-        "loki-checkout",
-        "loki-dev"
+        "loki-checkout"
     ],
     "type": "magento2-module",
     "require": {
