@@ -19,5 +19,8 @@
         "psr-4": {
             "LokiCheckout\\Uk\\": ""
         }
+    },
+    "extra": {
+        "label": "UK Settings"
     }
 }
