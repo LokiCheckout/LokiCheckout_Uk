@@ -1,9 +1,10 @@
 {
     "name": "loki-checkout/magento2-uk",
     "version": "1.0.0",
-    "description": "N/A",
+    "description": "UK Settings",
     "keywords": [
-        "loki-checkout"
+        "loki-checkout",
+        "loki-checkout-category-country"
     ],
     "type": "magento2-module",
     "require": {
