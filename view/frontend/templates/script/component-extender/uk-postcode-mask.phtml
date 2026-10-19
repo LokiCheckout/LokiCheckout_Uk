@@ -1,5 +1,5 @@
 <script>
-    LokiComponentExtender.add('UkPostcodeMaskMixin', () => {
+    LokiComponentExtender.extend('LokiCheckoutComponent', 'UkPostcodeMaskMixin', () => {
         return {
             ukPostcodeMask(input) {
                 return /^[A-Z]{2}/i.test(input)
