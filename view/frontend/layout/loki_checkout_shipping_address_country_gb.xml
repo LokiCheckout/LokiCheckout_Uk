@@ -3,15 +3,13 @@
     <body>
         <referenceBlock name="loki-checkout.shipping.address.street0">
             <arguments>
-                <argument name="field_label" xsi:type="string" translate="true">Address line 1</argument>
-                <argument name="md_col_span" xsi:type="number">12</argument>
+                <argument name="field_label" xsi:type="string" translate="true">Street</argument>
             </arguments>
         </referenceBlock>
 
         <referenceBlock name="loki-checkout.shipping.address.street1">
             <arguments>
-                <argument name="field_label" xsi:type="string" translate="true">Address line 2 (optional)</argument>
-                <argument name="md_col_span" xsi:type="number">12</argument>
+                <argument name="field_label" xsi:type="string" translate="true">House number</argument>
             </arguments>
         </referenceBlock>
 

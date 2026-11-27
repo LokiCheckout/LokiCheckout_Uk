@@ -2,7 +2,9 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:LokiCheckout_Core:etc/loki_checkout.xsd">
     <grid_layouts>
         <grid_layout name="default_grid">
-            <grid name="unitedkingdom" countryId="UK" parent="default">
+            <grid name="unitedkingdom" countryId="GB" parent="default">
+                <block alias="street1" sortOrder="45" mdColSpan="3" />
+                <block alias="street0" sortOrder="50" mdColSpan="9" />
                 <block alias="city" mdColSpan="12" />
             </grid>
         </grid_layout>
