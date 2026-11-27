@@ -15,7 +15,7 @@
 
         <referenceBlock name="loki-checkout.shipping.address.street2">
             <arguments>
-                <argument name="field_label" xsi:type="string" translate="true">Address line 3 (optional)</argument>
+                <argument name="field_label" xsi:type="string" translate="true">Address line 2 (optional)</argument>
                 <argument name="md_col_span" xsi:type="number">12</argument>
             </arguments>
         </referenceBlock>
@@ -32,7 +32,7 @@
 
         <referenceBlock name="loki-checkout.shipping.address.region">
             <arguments>
-                <argument name="field_label" xsi:type="string" translate="true">State</argument>
+                <argument name="field_label" xsi:type="string" translate="true">County</argument>
             </arguments>
         </referenceBlock>
     </body>
